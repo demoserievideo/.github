@@ -1,7 +1,7 @@
 {
     "name": "DotNet Test Template",
     "description": "Template para projetos com testes em .Net Core",
-    "iconName": "gato",
+    "iconName": "codigo-binario",
     "categories": [
         "C#"
     ]
