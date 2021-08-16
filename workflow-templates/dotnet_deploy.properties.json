@@ -1,0 +1,8 @@
+{
+    "name": "DotNet Deploy Template",
+    "description": "Template para projetos .Net Core e Deploy Onpremisses no Runner Demo,
+    "iconName": "codigo-binario",
+    "categories": [
+        "C#"
+    ]
+}
